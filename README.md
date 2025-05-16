@@ -1,3 +1,4 @@
+![Dashboard Screenshot](Dashboard.png)
 # Amazon Sales Analysis Dashboard
 
 **📊 Amazon Sales Analysis Dashboard - Power BI Project**
@@ -5,6 +6,7 @@
 This project is a Power BI dashboard created to analyze sales performance of Amazon products across various categories. It showcases key performance metrics, trend analysis, and top-performing products based on sales and reviews.
 
 
+Find Power BI dashboard file link (view dashboard here): https://app.powerbi.com/view?r=eyJrIjoiZTk4OWU4NzAtZDQ0Zi00YjM0LTkyZjktOTQxNTU3N2M4Y2UxIiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9
 
 **🔍 Project Overview**
 
